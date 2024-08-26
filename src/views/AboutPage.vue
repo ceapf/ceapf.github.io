@@ -1,13 +1,13 @@
 <template>
     <div>
-      <h1>Analysis Page</h1>
-      <p>This is the analysis page.</p>
+      <h1>Home Page</h1>
+      <p>Welcome to the home page.</p>
     </div>
   </template>
   
   <script>
   export default {
-    name: 'Analysis'
+    name: 'AboutPage'
   }
   </script>
   

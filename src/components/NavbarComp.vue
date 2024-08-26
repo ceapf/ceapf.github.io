@@ -3,14 +3,14 @@
       <ul>
         <li><router-link to="/">About</router-link></li>
         <li><router-link to="/analysis">Analysis</router-link></li>
-        <li><router-link to="/ML">ML</router-link></li>
+        <li><router-link to="/ml">ML</router-link></li>
       </ul>
     </nav>
   </template>
   
   <script>
   export default {
-    name: 'Navbar'
+    name: 'NavbarComp'
   }
   </script>
   
