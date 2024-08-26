@@ -16,8 +16,14 @@
   
   <style scoped>
   nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     background-color: #333;
+    color: white;
     padding: 1rem;
+    z-index: 1000; /* Ensures the navbar is on top of other elements */
   }
   ul {
     list-style: none;
@@ -25,6 +31,7 @@
     margin: 0;
     display: flex;
     gap: 1rem;
+    justify-content: space-around;
   }
   li {
     color: white;
