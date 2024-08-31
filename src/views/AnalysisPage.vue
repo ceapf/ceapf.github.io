@@ -4,7 +4,8 @@
       <p>This page contains an assortment of projects data-adjacent that i've worked on.</p>
       <h3><i>Table of Contents</i></h3>
       <a href="#olympic">How does a countries socioeconomic state influence its ability to produce olympic athletes?</a>
-      <a href="darwin">AI teaches itself the Rubik's Cube</a>
+      <br>
+      <a href="#darwin">AI teaches itself the Rubik's Cube</a>
       <iframe 
       src="https://ceapf.github.io/olympicanalysis.html" 
       width="100%" 
