@@ -6,12 +6,14 @@
       <a href="#olympic">How does a countries socioeconomic state influence its ability to produce olympic athletes?</a>
       <br>
       <a href="#darwin">AI teaches itself the Rubik's Cube</a>
+      <h3 style="margin-top: 1em">How does a countries socioeconomic state influence its ability to produce olympic athletes?</h3>
       <iframe 
       src="https://ceapf.github.io/olympicanalysis.html" 
       width="100%" 
       height="800px" 
       style="border:none;" id="olympic"></iframe>
 
+      <h3 style="margin-top: 1em">Evolutionary Algorithms & The Rubik's Cube</h3>
       <iframe
       src="https://ceapf.github.io/darwinscube.html"
       width="100%"
