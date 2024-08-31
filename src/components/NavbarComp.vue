@@ -2,7 +2,7 @@
     <nav>
       <ul>
         <li><router-link to="/">About</router-link></li>
-        <li><router-link to="/analysis">Analysis</router-link></li>
+        <li><router-link to="/projects">Projects</router-link></li>
         <li><router-link to="/ml">ML</router-link></li>
       </ul>
     </nav>
